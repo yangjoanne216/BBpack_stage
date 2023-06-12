@@ -6,6 +6,7 @@ Le code_NAF et le code_département se trouvent dans code_NAF.csv et departement
 
 ## Example
 Vous trouverez des exemples de fichiers CSV dans les liens suivants :
+
 companies_47.71Z.csv : contient les informations de 200 entreprises avec le code NAF 47.71Z.
 
 companies_11.02B_33.csv : contient les informations de 116 entreprises avec le code NAF 11.02B situées dans le département 33.
